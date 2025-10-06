@@ -37,9 +37,9 @@ Actualmente:
 
 | 📝 Proyecto | 🧰 Tecnologías | 📌 Descripción |
 |-----------|---------------|---------------|
-| [**NBA Player Dashboard**](https://github.com/tu_usuario/henry-nba-dashboard) | Power BI · SQL · ML | Dashboard interactivo para analizar rendimiento de jugadores (Proyecto Henry) |
-| [**Hackathon No Country**](https://github.com/tu_usuario/no-country-dashboard) | Power BI · Python · Equipo multidisciplinario | Visualización de inversiones con interés compuesto, storytelling financiero |
-| [**Prácticas Coderhouse**](https://github.com/tu_usuario/coderhouse-data-analytics) | Python · Power BI | Entregas de ejercicios de análisis y visualización de datos |
+| [**NBA Player Dashboard**](https://github.com/LEGanalytics/NBA_Rendimiento_ComposicionCorporal) | Power BI · SQL · ML | Dashboard interactivo para analizar rendimiento de jugadores (Proyecto Henry) |
+| [**Simulación No Country**](https://github.com/LorenaMaza/RedesyDespertares-PowerBi) | Power BI · Python · Equipo multidisciplinario | Visualización y storytelling de investigación sobre la incidencia del uso de las redes sociales en la calidad del sueño |
+| [**Prácticas Coderhouse**](https://github.com/LorenaMaza/UniversidadesCulturales_PowerBi) | Python · Power BI | Entregas de ejercicios de análisis y visualización de datos |
 
 ---
 
