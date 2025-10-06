@@ -1,7 +1,3 @@
-<!-- Banner opcional (puede ser una imagen tuya trabajando o un gráfico atractivo) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tu_usuario/tu_usuario/main/banner.png" alt="Banner - Lorena Maza" width="100%" />
-</p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#3b82f6">Lorena Maza</span></h1>
 
@@ -28,11 +24,11 @@ Actualmente:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -44,11 +40,6 @@ Actualmente:
 | [**NBA Player Dashboard**](https://github.com/tu_usuario/henry-nba-dashboard) | Power BI · SQL · ML | Dashboard interactivo para analizar rendimiento de jugadores (Proyecto Henry) |
 | [**Hackathon No Country**](https://github.com/tu_usuario/no-country-dashboard) | Power BI · Python · Equipo multidisciplinario | Visualización de inversiones con interés compuesto, storytelling financiero |
 | [**Prácticas Coderhouse**](https://github.com/tu_usuario/coderhouse-data-analytics) | Python · Power BI | Entregas de ejercicios de análisis y visualización de datos |
-
-<!-- Ejemplo de miniatura opcional -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tu_usuario/henry-nba-dashboard/main/screenshot.png" alt="NBA Dashboard Screenshot" width="80%" />
-</p>
 
 ---
 
