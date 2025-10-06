@@ -1,56 +1,84 @@
-# 👋 ¡Hola! Soy Lorena Maza
+<!-- Banner opcional (puede ser una imagen tuya trabajando o un gráfico atractivo) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tu_usuario/tu_usuario/main/banner.png" alt="Banner - Lorena Maza" width="100%" />
+</p>
 
-🎯 **Transformo datos en decisiones**  
-Me apasiona el análisis de datos y la visualización como herramientas para generar impacto real. Después de una trayectoria en educación y coordinación de proyectos, decidí redirigir mi carrera hacia el mundo de los datos: un campo que combina perfectamente mi curiosidad analítica con el poder transformador de la tecnología.
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#3b82f6">Lorena Maza</span></h1>
 
----
-
-## 🧠 Sobre mí
-
-- 📍 Argentina  
-- 👩‍🏫 Actualmente soy profesora universitaria en **UADE** (Inteligencia de Negocios y Analítica Digital) y en **ETER** (Usabilidad y Data).  
-- 🧪 Coordino programas STEAM en **TriskelTech +CreActivos**, donde diseño experiencias educativas tecnológicas para jóvenes.  
-- 💻 Participé en una **Hackathon de No Country**, colaborando con desarrolladores e ingenieros para crear dashboards interactivos sobre inversiones con interés compuesto.  
-- 🚀 En constante formación: SQL • Python • Power BI • Big Data • Análisis exploratorio y visualización.
+<p align="center">
+  🚀 <strong>Transformo datos en decisiones</strong> <br/>
+  📊 Analista de Datos en formación | 💻 SQL · Python · Power BI | 🧠 Storytelling con datos
+</p>
 
 ---
 
-## 📂 Proyectos Destacados
+## ✨ Sobre mí
 
-### 📊 [Power BI - AdventureWorks (Henry Bootcamp)](https://github.com/tu_usuario/henry-nba-dashboard)
-Dashboard interactivo desarrollado para el bootcamp de Henry. Incluye modelado de datos, KPIs clave, storytelling visual y un modelo de machine learning aplicado al rendimiento de jugadores de la NBA.
+Soy una persona curiosa y apasionada por el análisis de datos y la visualización.  
+Luego de varios años en educación y coordinación de proyectos, encontré en el mundo de los datos un espacio donde mi mirada analítica y mi creatividad se potencian.  
 
-### 📈 [Dashboard Financiero – Hackathon No Country](https://github.com/tu_usuario/no-country-dashboard)
-Visualización del rendimiento de inversiones con interés compuesto. Diseño de métricas, exploración de datos en equipo multidisciplinario y desarrollo de tableros en Power BI.
-
-### 🧠 [Ejercicios y Entregas de Coderhouse](https://github.com/tu_usuario/coderhouse-data-analytics)
-Repositorio con prácticas y entregas del curso de Data Analytics. Incluye limpieza, análisis exploratorio y visualización con herramientas variadas.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-- **Lenguajes**: SQL · Python  
-- **BI & Visualización**: Power BI · Excel Avanzado  
-- **Data**: ETL · Modelado de Datos · Exploratory Data Analysis  
-- **Otros**: Google Analytics · Google Tag Manager · Big Data (introductorio)
+Actualmente:
+- 👩‍🏫 Doy clases en **UADE** y **ETER**, uniendo tecnología y estrategia digital.  
+- 🧪 Coordino programas STEAM en **TriskelTech**, creando experiencias tecnológicas para jóvenes.  
+- 🤝 Participé en una **Hackathon de No Country**, colaborando con desarrolladores para construir dashboards financieros interactivos.  
+- 🌱 Me formo en **SQL**, **Python**, **Power BI** y **Big Data** para impulsar la toma de decisiones basadas en evidencia.
 
 ---
 
-## 🌱 Actualmente
+## 🛠️ Tech Stack
 
-- 📚 Estudiando la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial**.  
-- 💼 Desarrollando mi portfolio profesional en GitHub con proyectos aplicados y colaborativos.  
-- ✨ Buscando oportunidades para **aportar valor con datos**, seguir aprendiendo y crecer en el ecosistema de analítica y BI.
-
----
-
-## 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lorena-maza)  
-- ✉️ lorenavmaza@yahoo.es
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
 
 ---
 
-⭐️ *Si algún proyecto te resulta interesante, no dudes en abrir un issue, sugerir mejoras o simplemente dejar una ⭐️. ¡La colaboración impulsa el crecimiento!*
+## 🌟 Proyectos Destacados
+
+| 📝 Proyecto | 🧰 Tecnologías | 📌 Descripción |
+|-----------|---------------|---------------|
+| [**NBA Player Dashboard**](https://github.com/tu_usuario/henry-nba-dashboard) | Power BI · SQL · ML | Dashboard interactivo para analizar rendimiento de jugadores (Proyecto Henry) |
+| [**Hackathon No Country**](https://github.com/tu_usuario/no-country-dashboard) | Power BI · Python · Equipo multidisciplinario | Visualización de inversiones con interés compuesto, storytelling financiero |
+| [**Prácticas Coderhouse**](https://github.com/tu_usuario/coderhouse-data-analytics) | Python · Power BI | Entregas de ejercicios de análisis y visualización de datos |
+
+<!-- Ejemplo de miniatura opcional -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tu_usuario/henry-nba-dashboard/main/screenshot.png" alt="NBA Dashboard Screenshot" width="80%" />
+</p>
+
+---
+
+## 📚 Formación & Certificaciones
+
+🎓 **Tecnicatura Superior en Ciencia de Datos e IA** — IFTS 24  
+🧠 **Bootcamp de Análisis de Datos** — Henry  
+📊 **Curso de Data Analytics** — Coderhouse  
+🐍 Introducción a Python — Agencia de Habilidades para el Futuro  
+☁️ Big Data & Data Analytics — Agencia de Habilidades para el Futuro
+
+---
+
+## 🚀 Actualmente
+
+- 💼 Construyendo mi portfolio profesional en GitHub con proyectos aplicados  
+- 📖 Profundizando en modelado de datos y storytelling visual  
+- 🌐 Enseñando y aprendiendo todos los días
+
+---
+
+## 📫 ¡Conectemos!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorena-maza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:lorenavmaza@yahoo.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ *Si algún proyecto te inspira o querés colaborar, no dudes en contactarme o dejar una estrella ⭐️*  
+
 
